@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langgraph
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+faiss-cpu
+tavily-python
+python-dotenv
+python-multipart
+pypdf
+pydantic
+pydantic-settings
+chromadb
+tiktoken

@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Git
+.git
+.gitignore
+
+# Project-specific
+app.log
+semantic_cache.pkl
+*.pdf
+
+# IDEs
+.vscode/
+.idea/
